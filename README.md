@@ -1,0 +1,1 @@
+# Terraform NSX Static IP Address
